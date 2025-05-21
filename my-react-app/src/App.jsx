@@ -1,5 +1,4 @@
 import { useState, useEffect } from 'react';
-import ReactDOM from 'react-dom';
 
 import Header from './Header.jsx'
 import Greeting from './Greeting.jsx'
