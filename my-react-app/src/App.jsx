@@ -30,8 +30,7 @@ function randomName (){
 
 function Container(){
   const [state, setState] = useState({
-    name: randomName(),
-    isFirst: true
+    name: randomName()
   })
 
   useEffect(() => {
